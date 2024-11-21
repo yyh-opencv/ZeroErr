@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/demo_test.dir/main.cpp.o CMakeFiles/demo_test.dir/Ethercat_control.cpp.o -o demo_test  ../libsoem.a -lpthread -lrt 
